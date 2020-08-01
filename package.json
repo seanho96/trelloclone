@@ -1,6 +1,6 @@
 {
-  "homepage": "http://selfdevtv.github.io/trello-clone",
-  "name": "trello-clone",
+  "homepage": "https://seanho96.github.io/trelloclone/",
+  "name": "trelloclone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,6 @@
     "styled-components": "^4.1.3",
     "uuidv4": "^3.0.1"
   },
-  "homepages": "https://seanho96.github.io/trelloclone",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
